@@ -2,7 +2,7 @@
 
 
 
-<div align = "right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Summid&layout=compact" height="250" width = "350"/></div>
+<div align = "right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Summid&layout=compact" height="200" width = "350"/></div>
 
 
 - 👀 稻盛夏田 / 盛夏 / Summid 都是我
