@@ -1,16 +1,22 @@
-### Hi there 👋
+###  **Hi there 👋 This is Summid**
 
-<!--
-**Summid/Summid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align = "right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Summid&layout=compact" height="250" width = "350"/></div>
+
+
+- 👀 稻盛夏田 / 盛夏 / Summid 都是我
+- 🔧 Unity前端菜狗，目前就职于某家游戏公司
+- 🎭 [Blog](summid.icu) - [Weibo](https://weibo.com/u/5869258849) - [BiliBili](https://space.bilibili.com/5453066) - [Steam](https://steamcommunity.com/id/Summid/)
+- 📧 Email - summid@foxmail.com
+- 🏠 现居重庆
+- 🧡 ~~单身~~
+- 🌞 Do what you do best.
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Summid/Summid/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Summid/Summid/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Summid/Summid/output/github-contribution-grid-snake.svg" />
+</picture>
