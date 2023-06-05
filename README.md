@@ -10,7 +10,7 @@
 - 🎭 [Blog](https://summid.icu) - [Weibo](https://weibo.com/u/5869258849) - [BiliBili](https://space.bilibili.com/5453066) - [Steam](https://steamcommunity.com/id/Summid/)
 - 📧 Email - summid@foxmail.com
 - 🏠 现居重庆
-- 🧡 ~~单身~~
+- 🧡 单身
 - 🌞 Do what you do best.
 
 
